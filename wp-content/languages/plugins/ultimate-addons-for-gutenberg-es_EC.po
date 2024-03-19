@@ -1,0 +1,403 @@
+# Translation of Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release) in Spanish (Ecuador)
+# This file is distributed under the same license as the Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-01 06:48:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: es_EC\n"
+"Project-Id-Version: Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release)\n"
+
+#: lib/class-uagb-ast-block-templates.php:65
+#: lib/gutenberg-templates/classes/class-ast-block-templates.php:404
+msgid "Template Kits"
+msgstr "Kits de plantillas"
+
+#: includes/blocks/masonry-gallery/block.php:13
+#: admin-core/assets/build/dashboard-app.js:1 dist/blocks.js:17
+msgid "Masonry Gallery"
+msgstr "Galería de muro"
+
+#: classes/class-uagb-admin.php:100
+msgid "You do not have permission to access this page."
+msgstr "No tienes permisos para acceder a esta página."
+
+#: classes/class-uagb-admin.php:101 classes/class-uagb-admin.php:132
+#: admin-core/assets/build/dashboard-app.js:1
+msgid "Rollback to Previous Version"
+msgstr "Volver a una versión anterior"
+
+#: classes/class-uagb-admin.php:114
+msgid "Error occurred, The version selected is invalid. Try selecting different version."
+msgstr "Ha ocurrido un error. La versión seleccionada no es válida. Prueba a seleccionar una versión diferente."
+
+#: includes/blocks/content-timeline-child/block.php:14 dist/blocks.js:13
+msgid "Content Timeline Child"
+msgstr "Cronología de contenidos hija"
+
+#: includes/blocks/post-title/block.php:15 dist/blocks.js:17
+msgid "Post Title"
+msgstr "Título de la entrada"
+
+#: includes/blocks/post-button/block.php:14 dist/blocks.js:17
+msgid "Post Button"
+msgstr "Botón de la entrada"
+
+#: includes/blocks/post-excerpt/block.php:15 dist/blocks.js:17
+msgid "Post Excerpt"
+msgstr "Extracto de la entrada"
+
+#: includes/blocks/post-meta/block.php:14 dist/blocks.js:17
+msgid "Post Meta"
+msgstr "Meta de la entrada"
+
+#: includes/blocks/post-image/block.php:14 dist/blocks.js:17
+msgid "Post Image"
+msgstr "Imagen de la entrada"
+
+#: includes/blocks/tabs/block.php:16 dist/blocks-placeholder.js:34
+#: dist/blocks.js:17
+msgid "Tabs"
+msgstr "Pestañas"
+
+#: includes/blocks/tabs-child/block.php:14 dist/blocks.js:17
+msgid "Tabs child"
+msgstr "Pestañas hijas"
+
+#: includes/blocks/forms/attributes.php:34 dist/blocks.js:1 dist/blocks.js:17
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/blocks/forms/attributes.php:40
+msgid "The form has been submitted Successfully!"
+msgstr "¡El mensaje ha sido enviado correctamente!"
+
+#: includes/blocks/forms/attributes.php:69 dist/blocks.js:1 dist/blocks.js:17
+msgid "Form Submission"
+msgstr "Envío del formulario"
+
+#: includes/blocks/forms/attributes.php:121 dist/blocks.js:1 dist/blocks.js:17
+msgid "There has been some error while submitting the form. Please verify all form fields again."
+msgstr "Ha ocurrido algún error al enviar el formulario. Por favor, revisa de nuevo todos los campos."
+
+#: includes/blocks/forms/attributes.php:168 dist/blocks.js:1 dist/blocks.js:17
+msgid "Please fill up the above captcha."
+msgstr "Por favor, completa el captcha de arriba."
+
+#: includes/blocks/forms-hidden/block.php:14 dist/blocks.js:11
+#: dist/blocks.js:17
+msgid "Hidden"
+msgstr "Oculto"
+
+#: includes/blocks/forms-phone/block.php:14 dist/blocks.js:17
+msgid "Phone"
+msgstr "Teléfono"
+
+#: includes/blocks/forms-textarea/block.php:14 dist/blocks.js:17
+msgid "Textarea"
+msgstr "Área de texto"
+
+#: includes/blocks/forms-checkbox/block.php:14 dist/blocks.js:17
+msgid "Checkbox"
+msgstr "Casilla de verificación"
+
+#: includes/blocks/forms-select/block.php:15 dist/blocks.js:17
+msgid "Select"
+msgstr "Selección"
+
+#: includes/blocks/forms-toggle/block.php:14 dist/blocks.js:1 dist/blocks.js:17
+msgid "Toggle"
+msgstr "Conmutador"
+
+#: includes/blocks/forms-date/block.php:14 dist/blocks.js:17
+msgid "Datepicker"
+msgstr "Selector de fecha"
+
+#: includes/blocks/forms-accept/block.php:14 dist/blocks.js:17
+msgid "Accept"
+msgstr "Aceptación"
+
+#: includes/blocks/forms-radio/block.php:14 dist/blocks.js:17
+msgid "Radio"
+msgstr "Casilla de selección única"
+
+#: includes/blocks/restaurant-menu-child/block.php:14 dist/blocks.js:17
+msgid "Price List-Child"
+msgstr "Precio de la lista hija"
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:410
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "Permite a los productos de %s hacer el seguimiento del rastreo de datos de uso no sensibles."
+
+#: blocks-config/taxonomy-list/class-uagb-taxonomy-list.php:125
+#: includes/blocks/taxonomy-list/attributes.php:92
+msgid "Taxonomy Not Available."
+msgstr "Taxonomía no disponible."
+
+#: includes/blocks/taxonomy-list/block.php:16 dist/blocks-placeholder.js:35
+#: dist/blocks.js:17
+msgid "Taxonomy List"
+msgstr "Lista de taxonomías"
+
+#: includes/blocks/inline-notice/block.php:16 dist/blocks-placeholder.js:23
+#: dist/blocks.js:17
+msgid "Inline Notice"
+msgstr "Aviso integrado"
+
+#. translators: %s product name
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+msgid "Want to help make <strong>%1s</strong> even more awesome? Allow us to collect non-sensitive diagnostic data and usage information. "
+msgstr "¿Quieres ayudar a hacer que <strong>%1s</strong> sea aún más fantástico? Permítenos recopilar datos no sensibles de diagnóstico e información del uso."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr "Esto será aplicable a todos los sitios de la red."
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+msgid " Know More."
+msgstr "Saber más."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr "¡Sí! Lo permito"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr "No, gracias"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:366
+msgid "Usage Tracking"
+msgstr "Seguimiento de uso"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:413
+msgid " This will be applicable for all sites from the network."
+msgstr "Esto será aplicable a todos los sitios de la red."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:418
+msgid "Learn More."
+msgstr "Aprender más."
+
+#: includes/blocks/wp-search/block.php:16 dist/blocks.js:17
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/blocks/social-share-child/block.php:14 dist/blocks.js:17
+msgid "Social Share Child"
+msgstr "Compartir social hijo"
+
+#: includes/blocks/image/block.php:16 dist/blocks-placeholder.js:21
+#: dist/blocks.js:11 dist/blocks.js:13 dist/blocks.js:17
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/blocks/icon-list-child/block.php:14 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "Icon"
+msgstr "Icono"
+
+#: includes/blocks/forms-name/block.php:14 dist/blocks.js:1 dist/blocks.js:17
+msgid "Name"
+msgstr "Nombre"
+
+#: blocks-config/table-of-content/class-uagb-table-of-content.php:637
+#: blocks-config/table-of-content/class-uagb-table-of-content.php:641
+#: includes/blocks/table-of-contents/attributes.php:18
+#: dist/blocks-placeholder.js:33 dist/blocks.js:1 dist/blocks.js:17
+msgid "Table Of Contents"
+msgstr "Tabla de contenidos"
+
+#: includes/blocks/forms-url/block.php:15 dist/blocks.js:1 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "URL"
+msgstr "URL"
+
+#: includes/blocks/forms-email/block.php:14 dist/blocks.js:1 dist/blocks.js:17
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/blocks/buttons-child/block.php:14 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "Button"
+msgstr "Botón"
+
+#: admin-core/inc/admin-menu.php:93 admin-core/assets/build/dashboard-app.js:1
+msgid "Settings"
+msgstr "Ajustes"
+
+#: blocks-config/table-of-content/class-uagb-table-of-content.php:925
+#: includes/blocks/table-of-contents/attributes.php:19 dist/blocks.js:1
+#: dist/blocks.js:17
+msgid "Add a header to begin generating the table of contents"
+msgstr "Añade un encabezado para empezar a generar la tabla de contenido"
+
+#: includes/blocks/advanced-heading/block.php:16 dist/blocks-placeholder.js:9
+#: dist/blocks.js:11 dist/blocks.js:13 dist/blocks.js:17
+msgid "Heading"
+msgstr "Encabezado"
+
+#: classes/class-uagb-init-blocks.php:663 dist/blocks.js:11 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "None"
+msgstr "Ninguno"
+
+#: classes/class-uagb-init-blocks.php:563 dist/blocks.js:11 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "Default"
+msgstr "Por defecto"
+
+#: lib/astra-notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr "Nonce de WordPress no validado."
+
+#: includes/blocks/table-of-contents/block.php:16
+msgid "Table of Contents"
+msgstr "Tabla de contenidos"
+
+#: classes/class-uagb-init-blocks.php:382
+msgid "Please select a valid Gravity Form."
+msgstr "Por favor, selecciona un formulario válido de Gravity Forms."
+
+#: classes/class-uagb-admin.php:219
+msgid "Would you please mind sharing your views and give it a 5 star rating on the WordPress repository?"
+msgstr "¿Te importaría compartir tu opinión y darle una valoración de 5 estrellas en el repositorio de WordPress?"
+
+#: classes/class-uagb-init-blocks.php:739
+msgid "You have not added any Gravity Forms yet."
+msgstr "Todavía no has añadido ningún formulario de Gravity Forms."
+
+#: includes/blocks/marketing-button/block.php:16 dist/blocks-placeholder.js:25
+#: dist/blocks.js:17
+msgid "Marketing Button"
+msgstr "Botón de marketing"
+
+#: classes/class-uagb-init-blocks.php:692
+#: classes/class-uagb-init-blocks.php:725 dist/blocks.js:17
+msgid "Select Form"
+msgstr "Selecciona un formulario"
+
+#: classes/class-uagb-init-blocks.php:706
+msgid "You have not added any Contact Form 7 yet."
+msgstr "Todavía no has añadido ningún formulario de Contact Form 7."
+
+#: classes/class-uagb-init-blocks.php:424
+msgid "Please select a valid Contact Form 7."
+msgstr "Por favor, selecciona un formulario válido de Contact Form 7."
+
+#: includes/blocks/blockquote/block.php:16 dist/blocks-placeholder.js:10
+#: dist/blocks.js:13
+msgid "Blockquote"
+msgstr "Cita"
+
+#: classes/class-uagb-helper.php:409 dist/blocks.js:17
+msgid "Full"
+msgstr "Completo"
+
+#: includes/blocks/restaurant-menu/block.php:16 dist/blocks-placeholder.js:29
+#: dist/blocks.js:17
+msgid "Price List"
+msgstr "Lista de precios"
+
+#: classes/class-uagb-admin.php:221
+msgid "Ok, you deserve it"
+msgstr "Vale, lo mereces"
+
+#: classes/class-uagb-admin.php:223
+msgid "Nope, maybe later"
+msgstr "No, quizá más tarde"
+
+#: classes/class-uagb-admin.php:224
+msgid "I already did"
+msgstr "Ya lo he hecho"
+
+#: includes/blocks/columns/block.php:16 dist/blocks.js:17
+msgid "Advanced Columns"
+msgstr "Columnas avanzadas"
+
+#: includes/blocks/column/block.php:14 dist/blocks.js:11 dist/blocks.js:17
+msgid "Column"
+msgstr "Columna"
+
+#: includes/blocks/call-to-action/block.php:16 dist/blocks-placeholder.js:12
+#: dist/blocks.js:1 dist/blocks.js:13 dist/blocks.js:17
+msgid "Call To Action"
+msgstr "Llamada a la acción"
+
+#: includes/blocks/post-masonry/block.php:16 dist/blocks.js:17
+msgid "Post Masonry"
+msgstr "Muro de entradas"
+
+#: includes/blocks/post-carousel/block.php:16 dist/blocks-placeholder.js:27
+#: dist/blocks.js:17
+msgid "Post Carousel"
+msgstr "Carrusel de entradas"
+
+#: blocks-config/post-timeline/class-uagb-post-timeline.php:885
+msgid "No posts found"
+msgstr "No se han encontrado entradas"
+
+#: includes/blocks/post-timeline/block.php:16 dist/blocks-placeholder.js:39
+#: dist/blocks.js:17
+msgid "Post Timeline"
+msgstr "Cronología de entradas"
+
+#: includes/blocks/icon-list/block.php:16 dist/blocks-placeholder.js:19
+#: dist/blocks.js:17
+msgid "Icon List"
+msgstr "Lista de iconos"
+
+#: includes/blocks/icon-list/attributes.php:19
+msgid "Label #1"
+msgstr "Etiqueta # 1"
+
+#: includes/blocks/content-timeline/block.php:16 dist/blocks-placeholder.js:38
+#: dist/blocks.js:13
+msgid "Content Timeline"
+msgstr "Cronología de contenidos"
+
+#: includes/blocks/social-share/block.php:16 dist/blocks-placeholder.js:31
+#: dist/blocks.js:17
+msgid "Social Share"
+msgstr "Compartir en redes sociales"
+
+#: includes/blocks/team/block.php:16 dist/blocks-placeholder.js:36
+#: dist/blocks.js:17
+msgid "Team"
+msgstr "Equipo"
+
+#: includes/blocks/post-grid/block.php:16 dist/blocks-placeholder.js:28
+#: dist/blocks.js:17
+msgid "Post Grid"
+msgstr "Cuadrícula de entradas"
+
+#: includes/blocks/info-box/block.php:16 dist/blocks-placeholder.js:22
+#: dist/blocks.js:1 dist/blocks.js:13
+msgid "Info Box"
+msgstr "Caja de información"
+
+#: blocks-config/post-timeline/class-uagb-post-timeline.php:523
+#: blocks-config/post/class-uagb-post.php:540
+#: blocks-config/post/class-uagb-post.php:2066
+#: includes/blocks/post-carousel/attributes.php:116
+#: includes/blocks/post-grid/attributes.php:107
+#: includes/blocks/post-masonry/attributes.php:110 dist/blocks.js:1
+#: dist/blocks.js:13 dist/blocks.js:17
+msgid "Read More"
+msgstr "Leer más"
+
+#: classes/class-uagb-loader.php:434
+msgid "Install Gutenberg"
+msgstr "Instalar Gutenberg"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
